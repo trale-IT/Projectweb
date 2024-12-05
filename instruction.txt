@@ -1,0 +1,19 @@
+1. 
+
+
+composer require doctrine/dbal
+
+composer require laravel/ui:^4.4
+
+php artisan storage:link
+
+---- HƯỚNG DẪN CHẠY ---------------
+*** Mở xampp *** 
+1. php artisan migrate --seed       //Auto create database + table + fake data
+2. php artisan serve                // Run server: click link: http://127.0.0.1:8000/
+
+- Tài khoản ADMIN:
+admin@gmail.com
+12345678
+-Tài khoản user: Tự đăng ký
+- tra/ letraxinh2510@gmail.com/12345678
